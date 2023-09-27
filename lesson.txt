@@ -1,0 +1,6 @@
+#API - Application Programming interface
+#CRUD - CREATE, READ, UPDATE AND DELETE
+#CREATE
+
+#HTTP - Hyper Text Transfer Protocol
+#Methods under http: Get, Post, Patch, Delete, Put
